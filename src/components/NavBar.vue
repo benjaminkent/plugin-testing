@@ -8,6 +8,9 @@
                 <li>
                     <router-link to="/plugin">Plug in</router-link>
                 </li>
+                <li>
+                    <router-link to="/springer-plugin">Springers plug-in</router-link>
+                </li>
             </ul>
         </nav>
     </header>
